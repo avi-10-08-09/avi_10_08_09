@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abhinav Mishra
 
-**Student Developer (11th Grade)**  
+**Student Developer (12th Grade)**  
 Learning full-stack fundamentals and building real projects step by step.
 
 ---
